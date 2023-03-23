@@ -1,7 +1,3 @@
-#
-# project-3
-# Radon
-
 ## Project - Books Management
 
 ### Key points
